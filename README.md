@@ -39,6 +39,9 @@ A **real-time multiplayer board game** with a **C server** and a **Python client
 - **Tech Stack**: VirtualBox (Linux VM), SQLite, Python, and C.  
 - Offers real-time communication with an intuitive UI and enhanced security measures.
 
+### 🏭 **[Fabric Tout](#)**  
+A management application for a company, built with **JEE**, using **PL/SQL** (Oracle database), a custom API, and **Maven** for dependency management.
+
 ### 🏔️ **[Ski Resort Management](#)**  
 A **Java application** for managing ski resorts, lessons, and instructors.  
 - Built with **WindowBuilder**, **Oracle SQL**.  
