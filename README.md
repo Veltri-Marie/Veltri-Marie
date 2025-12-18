@@ -1,26 +1,27 @@
 <p align="center">
-  <img src="assets/name.svg" alt="Marie Veltri" />
+  <img src="assets/name.svg" alt="Hi, I'm Marie Veltri" />
 </p>
 
 <p align="center">
-  Full Stack Developer • Cloud & AI Applications
+  Full Stack Developer · Cloud & AI Applications
 </p>
 
 ---
 
 ## About
 
-I hold a Bachelor's degree in Computer Science (Application Development) and I focus on building robust, maintainable and scalable web applications.
+I hold a Bachelor's degree in Computer Science with a specialization in Application Development.  
+I design and develop web applications with a strong focus on backend architecture, cloud deployment and modern frontend interfaces.
 
-I have worked on real-world projects involving cloud deployment, artificial intelligence integration and modern web architectures, notably during my internship at MIC Belgique on a project developed for the SIEP.
+During my internship at MIC Belgique, I worked on a real-world institutional project developed for the SIEP, involving artificial intelligence integration, cloud infrastructure and agile development practices.
 
-My interests lie in backend development with .NET, frontend interfaces with React, and cloud-based solutions using Microsoft Azure.
+My technical interests are centered around .NET development, React-based user interfaces and Microsoft Azure cloud services.
 
 ---
 
-## Technologies & Tools
+## Technical Skills
 
-### Languages
+### Programming Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
@@ -34,8 +35,8 @@ My interests lie in backend development with .NET, frontend interfaces with Reac
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
 </p>
 
 ### Cloud & DevOps
@@ -45,35 +46,51 @@ My interests lie in backend development with .NET, frontend interfaces with Reac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </p>
 
-### Tools
+### Tools & Development Environments
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40"/>
 </p>
 
 ---
 
-## Experience
+## Professional Experience
 
-**Software Development & Cloud Intern**  
-MIC Belgique
+### Software Development & Cloud Intern  
+**MIC Belgique**
 
-- Development of an AI-powered application using Semantic Kernel  
-- Cloud deployment and service configuration on Microsoft Azure  
-- Agile workflow and collaborative development  
-- Delivery of a functional product for an institutional client (SIEP)
+- Development of an AI-powered web application for an institutional client (SIEP)  
+- Integration of artificial intelligence using Semantic Kernel  
+- Deployment and configuration of cloud services on Microsoft Azure  
+- Application of agile methodologies and collaborative development practices  
+- Delivery of a functional and maintainable solution  
+
+### Student Job – Retail  
+**Intermarché**
+
+- Customer service and daily store operations  
+- Teamwork, reliability and adaptability in a fast-paced environment  
 
 ---
 
 ## Portfolio
 
-Personal website showcasing selected projects and experiments:
+A selection of my projects, experiments and technical explorations is available on my personal website:
 
 https://www.marieveltri.dev
 
 ---
 
+## Languages
+
+- French: native  
+- English: professional working proficiency  
+- Italian: professional working proficiency  
+
+---
+
 ## Contact
 
-- Email: marie.veltri@outlook.com
+- Email: marie.veltri@outlook.com  
 - Location: Belgium
