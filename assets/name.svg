@@ -1,13 +1,25 @@
-<svg viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="900" y2="0">
+      <stop offset="0%" stop-color="#7A4FFF">
+        <animate attributeName="offset" values="0;1" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#C9A7FF">
+        <animate attributeName="offset" values="1;0" dur="3s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
   <style>
-    .text {
+    text {
       font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
-      font-size: 64px;
+      font-size: 72px;
+      font-weight: 600;
       fill: none;
-      stroke: #000000;
-      stroke-width: 2;
-      stroke-dasharray: 1000;
-      stroke-dashoffset: 1000;
+      stroke: url(#gradient);
+      stroke-width: 2.5;
+      stroke-dasharray: 1200;
+      stroke-dashoffset: 1200;
       animation: draw 2.5s ease-out forwards;
     }
 
@@ -18,7 +30,7 @@
     }
   </style>
 
-  <text x="50%" y="70%" text-anchor="middle" class="text">
-    Marie Veltri
+  <text x="50%" y="60%" text-anchor="middle">
+    Hi, I'm Marie Veltri
   </text>
 </svg>
