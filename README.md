@@ -64,14 +64,8 @@ My technical interests are centered around .NET development, React-based user in
 - Integration of artificial intelligence using Semantic Kernel  
 - Deployment and configuration of cloud services on Microsoft Azure  
 - Application of agile methodologies and collaborative development practices  
-- Delivery of a functional and maintainable solution  
-
-### Student Job – Retail  
-**Intermarché**
-
-- Customer service and daily store operations  
-- Teamwork, reliability and adaptability in a fast-paced environment  
-
+- Delivery of a functional and maintainable solution
+  
 ---
 
 ## Portfolio
